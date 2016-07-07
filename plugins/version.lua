@@ -1,9 +1,8 @@
 do
 
 function run(msg, matches)
-  return 'Telegram Bot '.. VERSION .. [[ 
-  Checkout http://git.io/6jdjGg
-  GNU GPL v2 license.]]
+  return 'NFRAT BOT v2.1'
+  .]]
 end
 
 return {
